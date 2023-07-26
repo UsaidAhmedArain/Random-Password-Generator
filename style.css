@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-color: rgb(25, 108, 119);
+    width:440px;
+    height: 300px;
+    margin: 140px auto;
+}
+label{
+    color: white;
+    margin: 0px 34px;
+}
+.main{
+    padding: 9px;
+    width: 80%;
+    margin: 11px 33px;
+    outline: none;
+}
+
+.short{
+    width: 47px;
+    margin-left: 178px;
+    outline: none;
+}
+.box{
+    margin-left: 249px;
+}
+#btn{
+    padding: 9px;
+    width: 85%;
+    margin: 0px 33px;
+    outline: none;
+    cursor: pointer;
+    background-color:powderblue;
+    color: black;
+    border: none;
+}
